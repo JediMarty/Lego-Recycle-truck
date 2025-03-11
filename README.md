@@ -1,2 +1,3 @@
-# Lego-Recycle-truck
+# Lego-Recycle-truck (V0.2)
 Game like a game from the lego site back in the day!
+In progress...
